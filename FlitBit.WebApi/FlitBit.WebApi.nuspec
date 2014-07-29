@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Phillip Clark</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.github.com/flitbit-org/fbwebapi/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/flitbit-org/fbwebapi</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FlitBit WebApi - utility classes enabling the flitbit frameworks on ASPNET and WebApi.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>COPYRIGHT© 2013-2014 Phillip Clark. All rights reserved.</copyright>
+  </metadata>
+</package>
