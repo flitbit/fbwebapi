@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/flitbit-org/fbwebapi</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>FlitBit WebApi - utility classes enabling the Flitbit Frameworks on ASPNET and WebApi.</description>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Hijacked the deprecated package; new implementations and integration with FlitBit Frameworks.</releaseNotes>
     <copyright>COPYRIGHT© 2013-2014 Phillip Clark. All rights reserved.</copyright>
   </metadata>
 </package>
